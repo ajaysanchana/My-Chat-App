@@ -5,8 +5,9 @@ This is a real-time web chat application built with Node.js, Express, and Socket
 ## Features
 
 - **Real-time Communication**: Users can chat with each other in real-time.
-- **Room-based Chat**: Users can create or join specific chat rooms.
-- **Bidirectional Communication**: Messages are sent and received instantly using WebSockets.
+- **Room-based Chat system**: Users can create or join specific chat rooms.
+- **Fast and responsive UI**:Users recieve and send messages instantly using websockets.
+
 
 ## Tech Stack
 
@@ -23,7 +24,7 @@ This is a real-time web chat application built with Node.js, Express, and Socket
 
 1. **Clone the Repository**:
     ```bash
-   git clone https://github.com/Mahadev2074/WebChat.git
+   git clone https://github.com/ajaysanchana/My-Chat-App.git
    cd WebChat
 
     ```
